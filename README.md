@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=61crossroad)](https://github.com/61crossroad/github-readme-stats)
+
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=61crossroad)](https://github.com/61crossroad/github-readme-stats)
