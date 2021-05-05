@@ -1,4 +1,4 @@
-<center>### Happiness is just around the corner 👋</center>
+### Happiness is just around the corner 👋
 
 <!--
 **61crossroad/61crossroad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
